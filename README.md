@@ -9,7 +9,7 @@ A responsive fitness tracking dashboard built using **React.js**, **Tailwind CSS
 [https://github.com/CodeWithPiyush0/fittrack-dashboard](https://github.com/CodeWithPiyush0/fittrack-dashboard)
 
 ## Preview
-![Preview](../fitness-tracker-dashboard/screenshot/FitTrack.png) 
+![Preview](screenshot/FitTrack.png) 
 
 ## Features
 - Responsive design (Mobile, Tablet, Desktop)
