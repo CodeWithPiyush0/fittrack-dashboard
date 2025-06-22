@@ -1,12 +1,44 @@
-# React + Vite
+# FitTrack - Fitness Tracker Dashboard 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive fitness tracking dashboard built using **React.js**, **Tailwind CSS**, and **Vite**.
 
-Currently, two official plugins are available:
+## Live Demo
+[https://fittrack-dashboard.vercel.app](https://fittrack-dashboard.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## GitHub Repository
+[https://github.com/CodeWithPiyush0/fittrack-dashboard](https://github.com/CodeWithPiyush0/fittrack-dashboard)
 
-## Expanding the ESLint configuration
+## Preview
+![Preview](../fitness-tracker-dashboard/screenshot/FitTrack.png) 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+- Responsive design (Mobile, Tablet, Desktop)
+- Daily/Weekly/Monthly workout analytics (Chart.js)
+- Scroll to top button
+- Goal progress rings with dynamic icons
+- Clean and animated UI
+- Hamburger menu for mobile navigation
+
+## Tech Stack
+- React.js
+- Tailwind CSS
+- Chart.js
+- Lucide Icons
+- Vite
+
+## Folder Structure
+```
+src/
+│
+├── components/        # Reusable UI components
+├── data/              # Mock data (stats, logs, activities)
+├── assets/            # Images and icons
+├── App.jsx            # Main app logic
+```
+
+## Author
+**Piyush Kumar**    
+piyush0codes@gmail.com  
+LinkedIn and resume: [https://drive.google.com/drive/folders/1-vus_OhdeUUcWXuJI7Eh4UB7Zf0iFCto?usp=drive_link](https://drive.google.com/drive/folders/1-vus_OhdeUUcWXuJI7Eh4UB7Zf0iFCto?usp=drive_link)
+
+---
